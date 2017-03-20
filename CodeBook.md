@@ -73,6 +73,7 @@ Extracts only the measurements on the mean and standard deviation for each measu
 Uses descriptive activity names to name the activities in the data set.
   1. Read activity file to 'activitylabels'
   2. Add descriptive activity names to activities in 'setalldatawithactivitynames'
+  1=WALKING, 2=WALKING_UPSTAIRS, 3=WALKING_DOWNSTAIRS, 4=SITTING, 5=STANDING, 6=LAYING
 Appropriately labels the data set with descriptive variable names.
   1. substitutes "t" for "time"
   2. substitutes "f" for "frequency"
